@@ -1,2 +1,2 @@
-# Small Talk, Big Questions
-smalltalkbigquestions.today/
+# CID Concepts
+https://juzbox.github.io/CID_concepts/
