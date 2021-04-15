@@ -162,7 +162,7 @@ function Delete3() {
 
     setTimeout(function() {
       _INTERVAL_VAL_Y= setInterval(Type3, 100);
-    }, 200);
+    }, 300);
   }
 }
 _INTERVAL_VAL_X = setInterval(Type1, 100);
