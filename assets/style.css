@@ -60,7 +60,7 @@ body {
 a.button:link {
     color: black;
     font-size: 14px;
-    background-color: aquamarine;
+    background-color: white;
 }
 
 a.button:hover {
